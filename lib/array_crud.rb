@@ -7,7 +7,11 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
+<<<<<<< HEAD
   array.push("arrays!")
+=======
+  "arrays!".push("last")
+>>>>>>> 365b0ebdba33b37b87f282b312f0696d871e6021
 end
 
 def add_element_to_start_of_array(array, element)
